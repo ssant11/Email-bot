@@ -16,4 +16,5 @@ The files required for the program to run are:
 - signature in **signature.txt** (content can be changed but the name of the files must remain the same)
 - file in the .xlsx format containing the addressees' data and links in the above-mentioned layout (name of the file can be changed)
 \
-Four first filles, **mailing_bot.py**, **message_f.txt**, **message_m.txt**, **signature.txt** should be put into the same folder, preferably empty one.
+\
+Four first filles: **mailing_bot.py**, **message_f.txt**, **message_m.txt**, **signature.txt**, should be put into the same folder, preferably empty one.
