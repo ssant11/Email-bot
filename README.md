@@ -22,4 +22,4 @@ Four first filles: **mailing_bot.py**, **message_f.txt**, **message_m.txt**, **s
 After starting the program, a dialog box appears in which you must enter your email address and password, and enter the path to the file with recipient data and survey links. This can be done via the "Browse" button - then a file explorer window appears, from which you can manually select the file you are looking for. Confirm using the "Send" button.
 
 
-<img src = "images/MainWindow_image1.png" width = "534" height = "343">
+<img src = "images/MainWindow_image.png" width = "534" height = "343">
