@@ -1,3 +1,4 @@
 # Email-bot
 The bot is designed to send customers an e-mail asking them to complete surveys, but it can be easily transformed to different functionalities.
-Each client has an individual and unique link to the survey. E-mail, client's gender and the link to the survey should be prepared in an .xlsx file.
+Each client has an individual and unique link to the survey. Client's sex, name, surname, email adress and the link to the survey should be prepared in an .xlsx file.
+The data should have at least the fields shown in the file **mailing_data**
