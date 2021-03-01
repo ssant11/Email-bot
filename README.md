@@ -21,7 +21,8 @@ The files required for the program to run are:
 Four first filles: **mailing_bot.py**, **message_f.txt**, **message_m.txt**, **signature.txt**, should be put into the same folder, preferably empty one.
 ## Functionality
 1. Change email settings as it was explained in the section **Email account settings**.
-2. To start the program it is necessary to have python interpreter. If you don't have one you can download one for example from that link:
+2. Download the files and place them in a one folder **mailing_bot.py**, **message_f.txt**, **message_m.txt**, **signature.txt**.
+3. To start the program it is necessary to have python interpreter. If you don't have one you can download one for example from that link:
 \
 https://code.visualstudio.com/docs/python/python-tutorial
 
@@ -32,4 +33,4 @@ https://code.visualstudio.com/docs/python/python-tutorial
 <img src = "images/MainWindow_image.png" width = "534" height = "343">
 
 7. Confirm using the "Send" button.
-8.
+8. If the sendout is successful, you should see the popup with a confirmation.
