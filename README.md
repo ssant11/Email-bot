@@ -35,3 +35,4 @@ https://code.visualstudio.com/docs/python/python-tutorial
 
 7. Confirm using the "Send" button.
 8. If the sendout is successful, you should see the popup with a confirmation.
+9. ![](images/Success_image.png)
