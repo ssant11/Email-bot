@@ -8,10 +8,12 @@ It can be easily done anther the below link:\
 \
 https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OeS38IxTCTmc4d9QMYF4nuAGSxJoNMsNao3qimP6b30LkoC7k32aOa7RMjZPbzF1AkB89ogSd5mHGyGfBSNHBfvzxcvQ \
 \
-You just need to click enable Access for less secure applications.
+You just need to click enable **Access for less secure applications**.
 ## Configuration
 The files required for the program to run are:
 - **mailing_bot.py** call file
 - gender-specific message content in **message_f.txt**, **message_m.txt** files (content can be changed but the name of the files must remain the same)
 - signature in **signature.txt** (content can be changed but the name of the files must remain the same)
 - file in the .xlsx format containing the addressees' data and links in the above-mentioned layout (name of the file can be changed)
+\
+Four first filles, **mailing_bot.py**, **message_f.txt**, **message_m.txt**, **signature.txt** should be put into the same folder, preferably empty one.
