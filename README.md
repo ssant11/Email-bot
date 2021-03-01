@@ -5,7 +5,7 @@ In this version of the code each client has an individual and unique link to the
 ## Email account settings
 In order to use the Gmail account to do the sendout it is necessary to lower the security standards of the account from which we want to send emails.
 It can be easily done anther the below link:\
-https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OeS38IxTCTmc4d9QMYF4nuAGSxJoNMsNao3qimP6b30LkoC7k32aOa7RMjZPbzF1AkB89ogSd5mHGyGfBSNHBfvzxcvQ
+https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OeS38IxTCTmc4d9QMYF4nuAGSxJoNMsNao3qimP6b30LkoC7k32aOa7RMjZPbzF1AkB89ogSd5mHGyGfBSNHBfvzxcvQ \
 You just need to click enable Access for less secure applications.
 ## Configuration
 The files required for the program to run are:
