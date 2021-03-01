@@ -9,6 +9,7 @@ It can be easily done anther the below link:\
 https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OeS38IxTCTmc4d9QMYF4nuAGSxJoNMsNao3qimP6b30LkoC7k32aOa7RMjZPbzF1AkB89ogSd5mHGyGfBSNHBfvzxcvQ \
 \
 You just need to click enable **Access for less secure applications**.
+Unfortunately it is necessary, because most of the email services protect themselves against not authorised programs. Possibly the solution could be connection encryption, but I haven't checked that yet.
 ## Configuration
 The files required for the program to run are:
 - **mailing_bot.py** call file
