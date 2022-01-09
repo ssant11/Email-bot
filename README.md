@@ -28,7 +28,7 @@ First four files: **mailing_bot.py**, **message_f.txt**, **message_m.txt**, **si
 https://code.visualstudio.com/docs/python/python-tutorial
 
 3. Open the **mailing_bot.py** file with VSC or any other python interpreter.
-4. Start the program by clicking "Run" or "Ctrl+F5".
+4. Start the program by clicking "Run" or "Ctrl+F5" or typing `python3 mailing_bot.py`.
 5. When the dialog box appears, enter your email address and password, and enter the path to the file the with recipients' data and survey links. This can be done via the "Browse" button.
 
 <img src = "images/MainWindow_image.png" width = "534" height = "343">
